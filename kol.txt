@@ -1,0 +1,4 @@
+kol1	kol2	kol3	kol4
+1	2	3	4
+a	b	c	d
+f	@	#	$
